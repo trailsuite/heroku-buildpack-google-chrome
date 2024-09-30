@@ -62,7 +62,7 @@ stack=${STACK:-heroku-24}
 PACKAGES="
   gconf-service
   libappindicator1
-  libasound2
+  libasound2t64
   libatk1.0-0
   libatk-bridge2.0-0
   libcairo-gobject2
